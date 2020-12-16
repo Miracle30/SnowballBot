@@ -1,0 +1,8 @@
+https://discord.com/developers/applications
+
+https://discord.com/oauth2/authorize?client_id=786073938437734410&scope=bot
+npm install discord.js
+
+setting -> appearance -> dev mode
+
+npm install dotenv
