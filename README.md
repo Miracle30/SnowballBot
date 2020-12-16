@@ -1,0 +1,2 @@
+# SnowballBot
+first discord bot
